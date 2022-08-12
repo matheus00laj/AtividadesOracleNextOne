@@ -9,8 +9,6 @@ creeper.fillRect(50, 50, 150, 150);
 creeper.fillStyle = 'black';
 creeper.fillRect(300, 50, 150, 150);
 
-
-
 creeper.fillStyle = 'black';
 creeper.fillRect(200, 200, 100, 150);
 
